@@ -34,7 +34,7 @@ This repository contains a Python script for testing the AlphaBake Tryon API, al
    pip install -r requirements.txt
    ```
 
-4. Create a `.env` file with your API key:
+4. Create a `.env` file with your API key, get the API_KEY by signing up to [app.alphabake.io](https://app.alphabake.io)
    ```
    API_KEY=your_api_key_here
    ```
